@@ -1,0 +1,23 @@
+{
+  "name": "Color Board#0000#0001#0002",
+  "symbol": "CBOARD#0000#0001#0002",
+  "description": "This is a color board.",
+  "image": "https://raw.githubusercontent.com/Roazpull/rep_1/main/0001.png",
+  "external_url": "https://data-store.jackjelly.com",
+  "extensions": {
+    "discord": "",
+    "twitter": "",
+    "vault": "",
+    "website": "https://data-store.jackjelly.com"
+  },
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Depth",
+      "value": "150"
+    }
+  ]
+}
